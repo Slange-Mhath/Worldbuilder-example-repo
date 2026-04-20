@@ -1,0 +1,9 @@
+## World Map
+
+[House]      [House]
+
+```
+ (Path)
+```
+
+[Farm ]      [Lake ]
