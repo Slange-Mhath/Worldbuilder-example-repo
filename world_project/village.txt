@@ -1,10 +1,9 @@
 ## World Map
 
-[House]      [House] [House]
+[damagedHouse]      [ damaged House] [burning House]
 
 ```
  (Path)
 ```
 
-[Farm ]      [Lake ]
-[hello farm]
+[Farm ruins]      [Lake ]
