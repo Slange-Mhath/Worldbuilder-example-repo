@@ -1,6 +1,6 @@
 ## World Map
 
-[House]      [House] [House]
+[House]      [House] [House] [Mansion]
 
 ```
  (Path)
